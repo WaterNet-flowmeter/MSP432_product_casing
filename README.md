@@ -6,7 +6,7 @@ This casing is designed for the following components
 1. MSP432P401r microcontroller evaluation board
 2. Texas Instruments CC wifi module
 3. Texas Instruments CC wifi booster
-4. Condensor microphone.
+4. Condenser microphone module.
 
 The rods are used for mounting MSP432 & its 2-D planar dimensions will be same for all MSP432 cases except height.
 
